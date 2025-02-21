@@ -1,6 +1,4 @@
 {
-    "useConfigFiles": true,
-    "router": true,
-    "vuex": true,
+    "useConfigFiles": false,
     "plugins": {}
 }
