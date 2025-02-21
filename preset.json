@@ -1,0 +1,6 @@
+{
+    "useConfigFiles": true,
+    "router": true,
+    "vuex": true,
+    "plugins": {}
+}
